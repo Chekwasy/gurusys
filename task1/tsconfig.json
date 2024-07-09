@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "outDir": "./built",
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "module": "es6",
+      "target": "es6",
+      "rootDir": ".",
+      "allowJs": true,
+      "moduleResolution": "node",
+          "skipLibCheck": true
+    }
+  }
